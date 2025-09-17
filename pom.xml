@@ -33,6 +33,10 @@
     <artifactId>apache-ignite</artifactId>
     <packaging>pom</packaging>
 
+  <properties>
+  <sonar.organization>vikrant1717</sonar.organization>
+  </properties>
+
     <modules>
         <module>modules/checkstyle</module>
         <module>parent</module>
